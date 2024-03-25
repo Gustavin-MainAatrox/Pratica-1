@@ -1,0 +1,20 @@
+header{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 16px;
+    border-radius: 16px;
+
+}
+
+body{
+    color: rgb(120, 16, 240);
+    background-image: linear-gradient (to left, rgb(14, 189, 72), rgb(4, 3, 8));
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+
+}
+
+fotter{
+    text-align: center;
+}
